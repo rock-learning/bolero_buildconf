@@ -3,5 +3,10 @@ package_sets:
 
 layout:
   - learning/bolero
+  - learning/bolero/src/controller
+  - learning/bolero/src/bl_loader
+  - learning/bolero/src/environment/cec13_test_functions
+  - learning/bolero/src/optimizer/cmaes_optimizer
+
   
 exclude_packages:
