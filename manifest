@@ -1,0 +1,7 @@
+package_sets:
+  - dfkigit: team-learning/package_set
+
+layout:
+  - learning/bolero
+  
+exclude_packages:
