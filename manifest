@@ -1,5 +1,5 @@
 package_sets:
-  - dfkigit: team-learning/package_set
+  - github: rock-learning/package_set
 
 layout:
   - learning/bolero
