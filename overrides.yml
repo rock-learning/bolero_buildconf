@@ -9,4 +9,4 @@
 
 overrides:
   - tools/configmaps:
-      branch: restructured
+      branch: master
